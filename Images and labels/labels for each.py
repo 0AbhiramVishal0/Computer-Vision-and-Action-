@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-base_path = 'Split_By_Members/'
+base_path = 'Data/'
 
 # Breed info dictionary (same as before)
 breed_info = {

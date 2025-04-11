@@ -9,7 +9,7 @@ df = pd.read_csv('final_labels.csv')
 members = ['Sadia', 'Subhana', 'Abhi']
 
 # Destination Base Folder
-destination_base = 'Split_By_Members'
+destination_base = 'Data'
 
 # Loop for Each Breed
 for breed in df['Breed Name'].unique():
@@ -25,15 +25,21 @@ for breed in df['Breed Name'].unique():
 
     for member, images in splits.items():
         for _, row in images.iterrows():
-            src = row['Path']  # Direct path from CSV
+            src = row['Path']
             img_name = row['Image ID']
-            dest_dir = os.path.join(destination_base, member, breed)
 
+            # Ensure .jpg extension
+            if not img_name.endswith('.jpg'):
+                img_name += '.jpg'
+
+            dest_dir = os.path.join(destination_base, member, breed)
             os.makedirs(dest_dir, exist_ok=True)
 
+            dest_path = os.path.join(dest_dir, img_name)
+
             if os.path.exists(src):
-                shutil.copy(src, os.path.join(dest_dir, img_name))
+                shutil.copy(src, dest_path)
             else:
                 print(f"Missing Image: {src}")
 
-print("Image copying done successfully for Sadia, Subhana, and Abhi!")
+print("Images copied successfully to 'Data' folder for Sadia, Subhana, and Abhi with .jpg extension!")
