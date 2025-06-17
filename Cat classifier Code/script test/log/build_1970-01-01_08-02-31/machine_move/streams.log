@@ -1,0 +1,27 @@
+[9.658s] Invoking command in '/home/ubuntu/script test/src/machine_move': PYTHONPATH=/home/ubuntu/script test/build/machine_move/prefix_override:/home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/machine_move build --build-base /home/ubuntu/script test/build/machine_move/build install --record /home/ubuntu/script test/build/machine_move/install.log --single-version-externally-managed install_data
+[10.820s] running egg_info
+[10.884s] writing ../../build/machine_move/machine_move.egg-info/PKG-INFO
+[10.891s] writing dependency_links to ../../build/machine_move/machine_move.egg-info/dependency_links.txt
+[10.892s] writing entry points to ../../build/machine_move/machine_move.egg-info/entry_points.txt
+[10.892s] writing requirements to ../../build/machine_move/machine_move.egg-info/requires.txt
+[10.893s] writing top-level names to ../../build/machine_move/machine_move.egg-info/top_level.txt
+[11.020s] reading manifest file '../../build/machine_move/machine_move.egg-info/SOURCES.txt'
+[11.022s] writing manifest file '../../build/machine_move/machine_move.egg-info/SOURCES.txt'
+[11.023s] running build
+[11.023s] running build_py
+[11.024s] copying machine_move/move.py -> /home/ubuntu/script test/build/machine_move/build/lib/machine_move
+[11.025s] copying machine_move/stop.py -> /home/ubuntu/script test/build/machine_move/build/lib/machine_move
+[11.026s] copying machine_move/__init__.py -> /home/ubuntu/script test/build/machine_move/build/lib/machine_move
+[11.026s] running install
+[11.044s] running install_lib
+[11.110s] running install_data
+[11.110s] copying resource/machine_move -> /home/ubuntu/script test/install/machine_move/share/ament_index/resource_index/packages
+[11.111s] copying package.xml -> /home/ubuntu/script test/install/machine_move/share/machine_move
+[11.111s] running install_egg_info
+[11.174s] removing '/home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages/machine_move-0.0.0-py3.10.egg-info' (and everything under it)
+[11.174s] Copying ../../build/machine_move/machine_move.egg-info to /home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages/machine_move-0.0.0-py3.10.egg-info
+[11.177s] running install_scripts
+[11.660s] Installing move script to /home/ubuntu/script test/install/machine_move/lib/machine_move
+[11.660s] Installing stop script to /home/ubuntu/script test/install/machine_move/lib/machine_move
+[11.661s] writing list of installed files to '/home/ubuntu/script test/build/machine_move/install.log'
+[11.815s] Invoked command in '/home/ubuntu/script test/src/machine_move' returned '0': PYTHONPATH=/home/ubuntu/script test/build/machine_move/prefix_override:/home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/machine_move build --build-base /home/ubuntu/script test/build/machine_move/build install --record /home/ubuntu/script test/build/machine_move/install.log --single-version-externally-managed install_data

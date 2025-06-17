@@ -1,0 +1,3 @@
+[console_scripts]
+move = machine_move.move:main
+stop = machine_move.stop:main

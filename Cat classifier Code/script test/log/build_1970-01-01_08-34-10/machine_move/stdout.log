@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/machine_move/machine_move.egg-info/PKG-INFO
+writing dependency_links to ../../build/machine_move/machine_move.egg-info/dependency_links.txt
+writing entry points to ../../build/machine_move/machine_move.egg-info/entry_points.txt
+writing requirements to ../../build/machine_move/machine_move.egg-info/requires.txt
+writing top-level names to ../../build/machine_move/machine_move.egg-info/top_level.txt
+reading manifest file '../../build/machine_move/machine_move.egg-info/SOURCES.txt'
+writing manifest file '../../build/machine_move/machine_move.egg-info/SOURCES.txt'
+running build
+running build_py
+copying machine_move/move.py -> /home/ubuntu/script test/build/machine_move/build/lib/machine_move
+copying machine_move/classifier_trigger.py -> /home/ubuntu/script test/build/machine_move/build/lib/machine_move
+copying machine_move/stop.py -> /home/ubuntu/script test/build/machine_move/build/lib/machine_move
+copying machine_move/__init__.py -> /home/ubuntu/script test/build/machine_move/build/lib/machine_move
+running install
+running install_lib
+copying /home/ubuntu/script test/build/machine_move/build/lib/machine_move/classifier_trigger.py -> /home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages/machine_move
+byte-compiling /home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages/machine_move/classifier_trigger.py to classifier_trigger.cpython-310.pyc
+running install_data
+copying resource/machine_move -> /home/ubuntu/script test/install/machine_move/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/script test/install/machine_move/share/machine_move
+running install_egg_info
+removing '/home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages/machine_move-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/machine_move/machine_move.egg-info to /home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages/machine_move-0.0.0-py3.10.egg-info
+running install_scripts
+Installing move script to /home/ubuntu/script test/install/machine_move/lib/machine_move
+Installing stop script to /home/ubuntu/script test/install/machine_move/lib/machine_move
+writing list of installed files to '/home/ubuntu/script test/build/machine_move/install.log'

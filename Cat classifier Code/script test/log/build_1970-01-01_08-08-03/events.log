@@ -1,0 +1,443 @@
+[0.000000] (-) TimerEvent: {}
+[0.001782] (capture_topic) JobQueued: {'identifier': 'capture_topic', 'dependencies': OrderedDict()}
+[0.002021] (machine_move) JobQueued: {'identifier': 'machine_move', 'dependencies': OrderedDict()}
+[0.002255] (capture_topic) JobStarted: {'identifier': 'capture_topic'}
+[0.092847] (-) TimerEvent: {}
+[0.148895] (machine_move) JobStarted: {'identifier': 'machine_move'}
+[0.196444] (-) TimerEvent: {}
+[0.301723] (-) TimerEvent: {}
+[0.402364] (-) TimerEvent: {}
+[0.506762] (-) TimerEvent: {}
+[0.607583] (-) TimerEvent: {}
+[0.709523] (-) TimerEvent: {}
+[0.810264] (-) TimerEvent: {}
+[0.911252] (-) TimerEvent: {}
+[1.021538] (-) TimerEvent: {}
+[1.128468] (-) TimerEvent: {}
+[1.234823] (-) TimerEvent: {}
+[1.338276] (-) TimerEvent: {}
+[1.454907] (-) TimerEvent: {}
+[1.559694] (-) TimerEvent: {}
+[1.660344] (-) TimerEvent: {}
+[1.760931] (-) TimerEvent: {}
+[2.117785] (-) TimerEvent: {}
+[2.221241] (-) TimerEvent: {}
+[2.322716] (-) TimerEvent: {}
+[2.423328] (-) TimerEvent: {}
+[2.524829] (-) TimerEvent: {}
+[2.626812] (-) TimerEvent: {}
+[2.728566] (-) TimerEvent: {}
+[2.849474] (-) TimerEvent: {}
+[2.950148] (-) TimerEvent: {}
+[3.051128] (-) TimerEvent: {}
+[3.161842] (-) TimerEvent: {}
+[3.262500] (-) TimerEvent: {}
+[3.365625] (-) TimerEvent: {}
+[3.469793] (-) TimerEvent: {}
+[3.570790] (-) TimerEvent: {}
+[3.673529] (-) TimerEvent: {}
+[3.775076] (-) TimerEvent: {}
+[3.876354] (-) TimerEvent: {}
+[3.986789] (-) TimerEvent: {}
+[4.089890] (-) TimerEvent: {}
+[4.190496] (-) TimerEvent: {}
+[4.291244] (-) TimerEvent: {}
+[4.391953] (-) TimerEvent: {}
+[4.504213] (-) TimerEvent: {}
+[4.605843] (-) TimerEvent: {}
+[4.706601] (-) TimerEvent: {}
+[4.809886] (-) TimerEvent: {}
+[4.916749] (-) TimerEvent: {}
+[5.024044] (-) TimerEvent: {}
+[5.124846] (-) TimerEvent: {}
+[5.228004] (-) TimerEvent: {}
+[5.329697] (-) TimerEvent: {}
+[5.430323] (-) TimerEvent: {}
+[5.530985] (-) TimerEvent: {}
+[5.635620] (-) TimerEvent: {}
+[5.736344] (-) TimerEvent: {}
+[5.837484] (-) TimerEvent: {}
+[5.941586] (-) TimerEvent: {}
+[6.043534] (-) TimerEvent: {}
+[6.146935] (-) TimerEvent: {}
+[6.247611] (-) TimerEvent: {}
+[6.349244] (-) TimerEvent: {}
+[6.450706] (-) TimerEvent: {}
+[6.551330] (-) TimerEvent: {}
+[6.651986] (-) TimerEvent: {}
+[6.752672] (-) TimerEvent: {}
+[6.853812] (-) TimerEvent: {}
+[6.955006] (-) TimerEvent: {}
+[7.055928] (-) TimerEvent: {}
+[7.156828] (-) TimerEvent: {}
+[7.257748] (-) TimerEvent: {}
+[7.358667] (-) TimerEvent: {}
+[7.459609] (-) TimerEvent: {}
+[7.561243] (-) TimerEvent: {}
+[7.662000] (-) TimerEvent: {}
+[7.762653] (-) TimerEvent: {}
+[7.863396] (-) TimerEvent: {}
+[7.964840] (-) TimerEvent: {}
+[8.069778] (-) TimerEvent: {}
+[8.170676] (-) TimerEvent: {}
+[8.279182] (-) TimerEvent: {}
+[8.380286] (-) TimerEvent: {}
+[8.481177] (-) TimerEvent: {}
+[8.583245] (-) TimerEvent: {}
+[8.685485] (-) TimerEvent: {}
+[8.786716] (-) TimerEvent: {}
+[8.887977] (-) TimerEvent: {}
+[8.988642] (-) TimerEvent: {}
+[9.089381] (-) TimerEvent: {}
+[9.190340] (-) TimerEvent: {}
+[9.294316] (-) TimerEvent: {}
+[9.405458] (-) TimerEvent: {}
+[9.510561] (-) TimerEvent: {}
+[9.614684] (-) TimerEvent: {}
+[9.727565] (-) TimerEvent: {}
+[9.831347] (-) TimerEvent: {}
+[9.936100] (-) TimerEvent: {}
+[10.049462] (-) TimerEvent: {}
+[10.150667] (-) TimerEvent: {}
+[10.251304] (-) TimerEvent: {}
+[10.351914] (-) TimerEvent: {}
+[10.452953] (-) TimerEvent: {}
+[10.555066] (-) TimerEvent: {}
+[10.655750] (-) TimerEvent: {}
+[10.756689] (-) TimerEvent: {}
+[10.857457] (-) TimerEvent: {}
+[10.958291] (-) TimerEvent: {}
+[11.061374] (-) TimerEvent: {}
+[11.161971] (-) TimerEvent: {}
+[11.262994] (-) TimerEvent: {}
+[11.364594] (-) TimerEvent: {}
+[11.465932] (-) TimerEvent: {}
+[11.569428] (-) TimerEvent: {}
+[11.675615] (-) TimerEvent: {}
+[11.776340] (-) TimerEvent: {}
+[11.877737] (-) TimerEvent: {}
+[11.978545] (-) TimerEvent: {}
+[12.079846] (-) TimerEvent: {}
+[12.180477] (-) TimerEvent: {}
+[12.284092] (-) TimerEvent: {}
+[12.384712] (-) TimerEvent: {}
+[12.485301] (-) TimerEvent: {}
+[12.585981] (-) TimerEvent: {}
+[12.687301] (-) TimerEvent: {}
+[12.788849] (-) TimerEvent: {}
+[12.890240] (-) TimerEvent: {}
+[12.991922] (-) TimerEvent: {}
+[13.092623] (-) TimerEvent: {}
+[13.194528] (-) TimerEvent: {}
+[13.296866] (-) TimerEvent: {}
+[13.405178] (-) TimerEvent: {}
+[13.528654] (-) TimerEvent: {}
+[13.630904] (-) TimerEvent: {}
+[13.733234] (-) TimerEvent: {}
+[13.835328] (-) TimerEvent: {}
+[13.935994] (-) TimerEvent: {}
+[14.040749] (-) TimerEvent: {}
+[14.141641] (-) TimerEvent: {}
+[14.243723] (-) TimerEvent: {}
+[14.344379] (-) TimerEvent: {}
+[14.445845] (-) TimerEvent: {}
+[14.547016] (-) TimerEvent: {}
+[14.648625] (-) TimerEvent: {}
+[14.749290] (-) TimerEvent: {}
+[14.850897] (-) TimerEvent: {}
+[14.955456] (-) TimerEvent: {}
+[15.056105] (-) TimerEvent: {}
+[15.156825] (-) TimerEvent: {}
+[15.257938] (-) TimerEvent: {}
+[15.359416] (-) TimerEvent: {}
+[15.460131] (-) TimerEvent: {}
+[15.562121] (-) TimerEvent: {}
+[15.662809] (-) TimerEvent: {}
+[15.763441] (-) TimerEvent: {}
+[15.866602] (-) TimerEvent: {}
+[15.969102] (-) TimerEvent: {}
+[16.069738] (-) TimerEvent: {}
+[16.173501] (-) TimerEvent: {}
+[16.277076] (-) TimerEvent: {}
+[16.382011] (-) TimerEvent: {}
+[16.482665] (-) TimerEvent: {}
+[16.583261] (-) TimerEvent: {}
+[16.683924] (-) TimerEvent: {}
+[16.785067] (-) TimerEvent: {}
+[16.885713] (-) TimerEvent: {}
+[16.987857] (-) TimerEvent: {}
+[17.088875] (-) TimerEvent: {}
+[17.196795] (-) TimerEvent: {}
+[17.301115] (-) TimerEvent: {}
+[17.401764] (-) TimerEvent: {}
+[17.502601] (-) TimerEvent: {}
+[17.603455] (-) TimerEvent: {}
+[17.704805] (-) TimerEvent: {}
+[17.812698] (-) TimerEvent: {}
+[17.913708] (-) TimerEvent: {}
+[18.015067] (-) TimerEvent: {}
+[18.116769] (-) TimerEvent: {}
+[18.217506] (-) TimerEvent: {}
+[18.319186] (-) TimerEvent: {}
+[18.420735] (-) TimerEvent: {}
+[18.521439] (-) TimerEvent: {}
+[18.622315] (-) TimerEvent: {}
+[18.724616] (-) TimerEvent: {}
+[18.828945] (-) TimerEvent: {}
+[18.932215] (-) TimerEvent: {}
+[19.034068] (-) TimerEvent: {}
+[19.152890] (-) TimerEvent: {}
+[19.255395] (-) TimerEvent: {}
+[19.356029] (-) TimerEvent: {}
+[19.456755] (-) TimerEvent: {}
+[19.561724] (-) TimerEvent: {}
+[19.663996] (-) TimerEvent: {}
+[19.769486] (-) TimerEvent: {}
+[19.870367] (-) TimerEvent: {}
+[19.975517] (-) TimerEvent: {}
+[20.079190] (-) TimerEvent: {}
+[20.179827] (-) TimerEvent: {}
+[20.284650] (-) TimerEvent: {}
+[20.458051] (-) TimerEvent: {}
+[20.568255] (-) TimerEvent: {}
+[20.672568] (-) TimerEvent: {}
+[20.774151] (-) TimerEvent: {}
+[20.875203] (-) TimerEvent: {}
+[20.975836] (-) TimerEvent: {}
+[21.076473] (-) TimerEvent: {}
+[21.177142] (-) TimerEvent: {}
+[21.278569] (-) TimerEvent: {}
+[21.379701] (-) TimerEvent: {}
+[21.480299] (-) TimerEvent: {}
+[21.581519] (-) TimerEvent: {}
+[21.683836] (-) TimerEvent: {}
+[21.784539] (-) TimerEvent: {}
+[21.885206] (-) TimerEvent: {}
+[21.986009] (-) TimerEvent: {}
+[22.087483] (-) TimerEvent: {}
+[22.188627] (-) TimerEvent: {}
+[22.290234] (-) TimerEvent: {}
+[22.390973] (-) TimerEvent: {}
+[22.491634] (-) TimerEvent: {}
+[22.592422] (-) TimerEvent: {}
+[22.693698] (-) TimerEvent: {}
+[22.795152] (-) TimerEvent: {}
+[22.896756] (-) TimerEvent: {}
+[22.997899] (-) TimerEvent: {}
+[23.098536] (-) TimerEvent: {}
+[23.199583] (-) TimerEvent: {}
+[23.300611] (-) TimerEvent: {}
+[23.401180] (-) TimerEvent: {}
+[23.502244] (-) TimerEvent: {}
+[23.608508] (-) TimerEvent: {}
+[23.709111] (-) TimerEvent: {}
+[23.810358] (-) TimerEvent: {}
+[23.912159] (-) TimerEvent: {}
+[24.014850] (-) TimerEvent: {}
+[24.116911] (-) TimerEvent: {}
+[24.217662] (-) TimerEvent: {}
+[24.318279] (-) TimerEvent: {}
+[24.430664] (-) TimerEvent: {}
+[24.532252] (-) TimerEvent: {}
+[24.636022] (-) TimerEvent: {}
+[24.736686] (-) TimerEvent: {}
+[24.837451] (-) TimerEvent: {}
+[24.939968] (-) TimerEvent: {}
+[25.040628] (-) TimerEvent: {}
+[25.145233] (-) TimerEvent: {}
+[25.247011] (-) TimerEvent: {}
+[25.347936] (-) TimerEvent: {}
+[25.449568] (-) TimerEvent: {}
+[25.550287] (-) TimerEvent: {}
+[25.652052] (-) TimerEvent: {}
+[25.754433] (-) TimerEvent: {}
+[25.855129] (-) TimerEvent: {}
+[25.955773] (-) TimerEvent: {}
+[26.058646] (-) TimerEvent: {}
+[26.159579] (-) TimerEvent: {}
+[26.262852] (-) TimerEvent: {}
+[26.364253] (-) TimerEvent: {}
+[26.464955] (-) TimerEvent: {}
+[26.565618] (-) TimerEvent: {}
+[26.666288] (-) TimerEvent: {}
+[26.766975] (-) TimerEvent: {}
+[26.867936] (-) TimerEvent: {}
+[26.968607] (-) TimerEvent: {}
+[27.071452] (-) TimerEvent: {}
+[27.175776] (-) TimerEvent: {}
+[27.276576] (-) TimerEvent: {}
+[27.379049] (-) TimerEvent: {}
+[27.479659] (-) TimerEvent: {}
+[27.580427] (-) TimerEvent: {}
+[27.683188] (-) TimerEvent: {}
+[27.786649] (-) TimerEvent: {}
+[27.887931] (-) TimerEvent: {}
+[27.989515] (-) TimerEvent: {}
+[28.097480] (-) TimerEvent: {}
+[28.204576] (-) TimerEvent: {}
+[28.307451] (-) TimerEvent: {}
+[28.411472] (-) TimerEvent: {}
+[28.520940] (-) TimerEvent: {}
+[28.622639] (-) TimerEvent: {}
+[28.727699] (-) TimerEvent: {}
+[28.828338] (-) TimerEvent: {}
+[28.929149] (-) TimerEvent: {}
+[29.030965] (-) TimerEvent: {}
+[29.131637] (-) TimerEvent: {}
+[29.233066] (-) TimerEvent: {}
+[29.334159] (-) TimerEvent: {}
+[29.435946] (-) TimerEvent: {}
+[29.542734] (-) TimerEvent: {}
+[29.644087] (-) TimerEvent: {}
+[29.744802] (-) TimerEvent: {}
+[29.845466] (-) TimerEvent: {}
+[29.947084] (-) TimerEvent: {}
+[30.047762] (-) TimerEvent: {}
+[30.148643] (-) TimerEvent: {}
+[30.249864] (-) TimerEvent: {}
+[30.351356] (-) TimerEvent: {}
+[30.453698] (-) TimerEvent: {}
+[30.556351] (-) TimerEvent: {}
+[30.657059] (-) TimerEvent: {}
+[30.758734] (-) TimerEvent: {}
+[30.859366] (-) TimerEvent: {}
+[30.960892] (-) TimerEvent: {}
+[30.987997] (machine_move) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/machine_move', 'build', '--build-base', '/home/ubuntu/script test/build/machine_move/build', 'install', '--record', '/home/ubuntu/script test/build/machine_move/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/ubuntu/script test/src/machine_move', 'env': {'USER': 'ubuntu', 'XDG_SESSION_TYPE': 'x11', 'ROS_PACKAGE_PATH': '/home/ubuntu/third_party_ros2/third_party_ws/install/async_web_server_cpp/share', 'SHLVL': '1', 'MACHINE_TYPE': 'JetRover_Acker', 'LD_LIBRARY_PATH': '/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_slam/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_odom/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_util/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_sync/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_rviz_plugins/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_conversions/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_msgs/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap/lib:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera/lib:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera_msgs/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_local_planner/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_msgs/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/laser_filters/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter_msgs/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/async_web_server_cpp/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_ros/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_msgs/lib:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline_msgs/lib:/home/ubuntu/ros2_ws/install/servo_controller_msgs/lib:/home/ubuntu/ros2_ws/install/ros_robot_controller_msgs/lib:/home/ubuntu/ros2_ws/install/kinematics_msgs/lib:/home/ubuntu/ros2_ws/install/interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda/lib64:', 'HOME': '/home/ubuntu', 'OLDPWD': '/home/ubuntu/script test', 'CYCLONEDDS_URI': 'file:///etc/cyclonedds/config.xml', 'DESKTOP_SESSION': 'ubuntu', 'JETSON_L4T': '36.3.0', 'LIDAR_TYPE': 'G4', 'ZSH': '/home/ubuntu/.zsh', 'JETSON_MODEL': 'NVIDIA Jetson Orin Nano Developer Kit', 'GTK_MODULES': 'gail:atk-bridge', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'need_compile': 'False', 'ROS_PYTHON_VERSION': '3', 'SYSTEMD_EXEC_PID': '3091', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=a48ab7a49d761f36d37b7e520000002b', 'DBUS_STARTER_BUS_TYPE': 'session', 'P9K_TTY': 'old', 'COLORTERM': 'truecolor', '_colcon_cd_root': '/home/ubuntu/ros2_ws', 'NVM_DIR': '/home/ubuntu/.nvm', 'IM_CONFIG_PHASE': '1', 'ROS_DISTRO': 'humble', 'COLCON_PREFIX_PATH': '/home/ubuntu/script test/install:/home/ubuntu/third_party_ros2/rtabmap_ws/install:/home/ubuntu/third_party_ros2/orbbec_ws/install:/home/ubuntu/third_party_ros2/third_party_ws/install:/home/ubuntu/ros2_ws/install', 'LOGNAME': 'ubuntu', 'GTK_IM_MODULE': 'fcitx', 'VERSION': '|V1.0.1|App_ROS2_1.0|2024-08-30|', 'MASTER': '/', 'JETSON_MODULE': 'NVIDIA Jetson Orin Nano (8GB ram)', '_': '/home/ubuntu/.local/bin/colcon', 'JETSON_SERIAL_NUMBER': '1422424322280', 'working_space': '/home/ubuntu', '_P9K_SSH_TTY': '/dev/pts/0', 'XDG_SESSION_CLASS': 'user', 'ROS_VERSION': '2', 'PKG_CONFIG_PATH': '/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap/lib/aarch64-linux-gnu/pkgconfig:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap/lib/pkgconfig:/home/ubuntu/third_party_ros2/third_party_ws/install/async_web_server_cpp/lib/aarch64-linux-gnu/pkgconfig:/home/ubuntu/third_party_ros2/third_party_ws/install/async_web_server_cpp/lib/pkgconfig', 'USERNAME': 'ubuntu', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'DEPTH_CAMERA_TYPE': 'Dabai', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap/bin:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter/bin:/opt/ros/humble/bin:/usr/local/cuda/bin:/home/ubuntu/.local/bin:/home/ubuntu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/ubuntu:@/tmp/.ICE-unix/3091,unix/ubuntu:/tmp/.ICE-unix/3091', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/587e0531_9da9_441e_a58d_93a7e6f3a63e', 'XDG_MENU_PREFIX': 'gnome-', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_HK.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LD_PRELOAD': '/home/ubuntu/third_party_ros2/Open3D/build/lib/Release/libOpen3D.so', 'HISTSIZE': '10000', 'JETSON_SOC': 'tegra234', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XMODIFIERS': '@im=fcitx', 'GNOME_TERMINAL_SERVICE': ':1.101', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'ROS_DOMAIN_ID': '0', 'ROSDISTRO_INDEX_URL': 'https://mirrors.tuna.tsinghua.edu.cn/rosdistro/index-v4.yaml', 'AMENT_PREFIX_PATH': '/home/ubuntu/script test/install/machine_move:/home/ubuntu/script test/install/capture_topic:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_ros:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_launch:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_examples:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_demos:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_viz:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_slam:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_odom:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_util:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_sync:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_rviz_plugins:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_python:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_conversions:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_msgs:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_description:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/ydlidar_ros2_driver:/home/ubuntu/third_party_ros2/third_party_ws/install/web_video_server:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_local_planner:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/sllidar_ros2:/home/ubuntu/third_party_ros2/third_party_ws/install/rf2o_laser_odometry:/home/ubuntu/third_party_ros2/third_party_ws/install/ldlidar_stl_ros2:/home/ubuntu/third_party_ros2/third_party_ws/install/laser_filters:/home/ubuntu/third_party_ros2/third_party_ws/install/imu_calib:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/ascamera_listener:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_ros:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_msgs:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline_msgs:/home/ubuntu/ros2_ws/install/slam:/home/ubuntu/ros2_ws/install/servo_controller_msgs:/home/ubuntu/ros2_ws/install/servo_controller:/home/ubuntu/ros2_ws/install/sdk:/home/ubuntu/ros2_ws/install/ros_robot_controller_msgs:/home/ubuntu/ros2_ws/install/ros_robot_controller:/home/ubuntu/ros2_ws/install/peripherals:/home/ubuntu/ros2_ws/install/navigation:/home/ubuntu/ros2_ws/install/kinematics_msgs:/home/ubuntu/ros2_ws/install/kinematics:/home/ubuntu/ros2_ws/install/jetrover_description:/home/ubuntu/ros2_ws/install/interfaces:/home/ubuntu/ros2_ws/install/example:/home/ubuntu/ros2_ws/install/controller:/home/ubuntu/ros2_ws/install/calibration:/home/ubuntu/ros2_ws/install/bringup:/home/ubuntu/ros2_ws/install/app:/opt/ros/humble', 'SHELL': '/bin/zsh', 'HOST': '/', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'P9K_SSH': '0', 'QT_IM_MODULE': 'fcitx', 'SAVEHIST': '10000', 'PWD': '/home/ubuntu/script test/build/machine_move', 'JETSON_CUDA_ARCH_BIN': '8.7', 'CUDA_HOME': '/usr/local/cuda', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'CLUTTER_IM_MODULE': 'xim', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=a48ab7a49d761f36d37b7e520000002b', 'ASR_LANGUAGE': 'English', 'RCUTILS_COLORIZED_OUTPUT': '1', '_P9K_TTY': '/dev/pts/0', 'PYTHONPATH': '/home/ubuntu/script test/build/machine_move/prefix_override:/home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages:/home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages:/home/ubuntu/script test/install/capture_topic/lib/python3.10/site-packages:/home/ubuntu/third_party_ros2/rtabmap_ws/build/rtabmap_python:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_python/lib/python3.10/site-packages:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/slam/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/servo_controller_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/servo_controller/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/sdk/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/ros_robot_controller_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/ros_robot_controller/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/peripherals/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/navigation/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/kinematics_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/kinematics/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/jetrover_description/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/interfaces/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/example/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/controller/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/calibration/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/bringup/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/app/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'HISTFILE': '/home/ubuntu/.zsh/.zsh_history', 'COLCON': '1', 'JETSON_JETPACK': '6.0', 'VTE_VERSION': '6800', 'AUDIODRIVER': 'alsa', 'JETSON_P_NUMBER': 'p3767-0003', 'CMAKE_PREFIX_PATH': '/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_ros:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_launch:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_examples:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_demos:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_viz:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_slam:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_odom:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_util:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_sync:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_rviz_plugins:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_conversions:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_msgs:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_description:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/ydlidar_ros2_driver:/home/ubuntu/third_party_ros2/third_party_ws/install/web_video_server:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_local_planner:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/sllidar_ros2:/home/ubuntu/third_party_ros2/third_party_ws/install/rf2o_laser_odometry:/home/ubuntu/third_party_ros2/third_party_ws/install/ldlidar_stl_ros2:/home/ubuntu/third_party_ros2/third_party_ws/install/laser_filters:/home/ubuntu/third_party_ros2/third_party_ws/install/imu_calib:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/async_web_server_cpp:/home/ubuntu/third_party_ros2/third_party_ws/install/ascamera_listener:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_ros:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_msgs:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline_msgs:/home/ubuntu/ros2_ws/install/servo_controller_msgs:/home/ubuntu/ros2_ws/install/ros_robot_controller_msgs:/home/ubuntu/ros2_ws/install/kinematics_msgs:/home/ubuntu/ros2_ws/install/interfaces'}, 'shell': False}
+[31.061099] (-) TimerEvent: {}
+[31.169785] (-) TimerEvent: {}
+[31.271937] (-) TimerEvent: {}
+[31.372675] (-) TimerEvent: {}
+[31.473932] (-) TimerEvent: {}
+[31.576155] (-) TimerEvent: {}
+[31.677085] (-) TimerEvent: {}
+[31.788238] (-) TimerEvent: {}
+[31.888872] (-) TimerEvent: {}
+[31.956148] (capture_topic) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/capture_topic', 'build', '--build-base', '/home/ubuntu/script test/build/capture_topic/build', 'install', '--record', '/home/ubuntu/script test/build/capture_topic/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/ubuntu/script test/src/capture_topic', 'env': {'USER': 'ubuntu', 'XDG_SESSION_TYPE': 'x11', 'ROS_PACKAGE_PATH': '/home/ubuntu/third_party_ros2/third_party_ws/install/async_web_server_cpp/share', 'SHLVL': '1', 'MACHINE_TYPE': 'JetRover_Acker', 'LD_LIBRARY_PATH': '/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_slam/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_odom/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_util/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_sync/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_rviz_plugins/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_conversions/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_msgs/lib:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap/lib:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera/lib:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera_msgs/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_local_planner/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_msgs/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/laser_filters/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter_msgs/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/async_web_server_cpp/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_ros/lib:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_msgs/lib:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline_msgs/lib:/home/ubuntu/ros2_ws/install/servo_controller_msgs/lib:/home/ubuntu/ros2_ws/install/ros_robot_controller_msgs/lib:/home/ubuntu/ros2_ws/install/kinematics_msgs/lib:/home/ubuntu/ros2_ws/install/interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda/lib64:', 'HOME': '/home/ubuntu', 'OLDPWD': '/home/ubuntu/script test', 'CYCLONEDDS_URI': 'file:///etc/cyclonedds/config.xml', 'DESKTOP_SESSION': 'ubuntu', 'JETSON_L4T': '36.3.0', 'LIDAR_TYPE': 'G4', 'ZSH': '/home/ubuntu/.zsh', 'JETSON_MODEL': 'NVIDIA Jetson Orin Nano Developer Kit', 'GTK_MODULES': 'gail:atk-bridge', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'need_compile': 'False', 'ROS_PYTHON_VERSION': '3', 'SYSTEMD_EXEC_PID': '3091', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=a48ab7a49d761f36d37b7e520000002b', 'DBUS_STARTER_BUS_TYPE': 'session', 'P9K_TTY': 'old', 'COLORTERM': 'truecolor', '_colcon_cd_root': '/home/ubuntu/ros2_ws', 'NVM_DIR': '/home/ubuntu/.nvm', 'IM_CONFIG_PHASE': '1', 'ROS_DISTRO': 'humble', 'COLCON_PREFIX_PATH': '/home/ubuntu/script test/install:/home/ubuntu/third_party_ros2/rtabmap_ws/install:/home/ubuntu/third_party_ros2/orbbec_ws/install:/home/ubuntu/third_party_ros2/third_party_ws/install:/home/ubuntu/ros2_ws/install', 'LOGNAME': 'ubuntu', 'GTK_IM_MODULE': 'fcitx', 'VERSION': '|V1.0.1|App_ROS2_1.0|2024-08-30|', 'MASTER': '/', 'JETSON_MODULE': 'NVIDIA Jetson Orin Nano (8GB ram)', '_': '/home/ubuntu/.local/bin/colcon', 'JETSON_SERIAL_NUMBER': '1422424322280', 'working_space': '/home/ubuntu', '_P9K_SSH_TTY': '/dev/pts/0', 'XDG_SESSION_CLASS': 'user', 'ROS_VERSION': '2', 'PKG_CONFIG_PATH': '/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap/lib/aarch64-linux-gnu/pkgconfig:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap/lib/pkgconfig:/home/ubuntu/third_party_ros2/third_party_ws/install/async_web_server_cpp/lib/aarch64-linux-gnu/pkgconfig:/home/ubuntu/third_party_ros2/third_party_ws/install/async_web_server_cpp/lib/pkgconfig', 'USERNAME': 'ubuntu', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'DEPTH_CAMERA_TYPE': 'Dabai', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap/bin:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter/bin:/opt/ros/humble/bin:/usr/local/cuda/bin:/home/ubuntu/.local/bin:/home/ubuntu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/ubuntu:@/tmp/.ICE-unix/3091,unix/ubuntu:/tmp/.ICE-unix/3091', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/587e0531_9da9_441e_a58d_93a7e6f3a63e', 'XDG_MENU_PREFIX': 'gnome-', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_HK.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LD_PRELOAD': '/home/ubuntu/third_party_ros2/Open3D/build/lib/Release/libOpen3D.so', 'HISTSIZE': '10000', 'JETSON_SOC': 'tegra234', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XMODIFIERS': '@im=fcitx', 'GNOME_TERMINAL_SERVICE': ':1.101', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'ROS_DOMAIN_ID': '0', 'ROSDISTRO_INDEX_URL': 'https://mirrors.tuna.tsinghua.edu.cn/rosdistro/index-v4.yaml', 'AMENT_PREFIX_PATH': '/home/ubuntu/script test/install/machine_move:/home/ubuntu/script test/install/capture_topic:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_ros:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_launch:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_examples:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_demos:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_viz:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_slam:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_odom:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_util:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_sync:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_rviz_plugins:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_python:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_conversions:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_msgs:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_description:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/ydlidar_ros2_driver:/home/ubuntu/third_party_ros2/third_party_ws/install/web_video_server:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_local_planner:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/sllidar_ros2:/home/ubuntu/third_party_ros2/third_party_ws/install/rf2o_laser_odometry:/home/ubuntu/third_party_ros2/third_party_ws/install/ldlidar_stl_ros2:/home/ubuntu/third_party_ros2/third_party_ws/install/laser_filters:/home/ubuntu/third_party_ros2/third_party_ws/install/imu_calib:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/ascamera_listener:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_ros:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_msgs:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline_msgs:/home/ubuntu/ros2_ws/install/slam:/home/ubuntu/ros2_ws/install/servo_controller_msgs:/home/ubuntu/ros2_ws/install/servo_controller:/home/ubuntu/ros2_ws/install/sdk:/home/ubuntu/ros2_ws/install/ros_robot_controller_msgs:/home/ubuntu/ros2_ws/install/ros_robot_controller:/home/ubuntu/ros2_ws/install/peripherals:/home/ubuntu/ros2_ws/install/navigation:/home/ubuntu/ros2_ws/install/kinematics_msgs:/home/ubuntu/ros2_ws/install/kinematics:/home/ubuntu/ros2_ws/install/jetrover_description:/home/ubuntu/ros2_ws/install/interfaces:/home/ubuntu/ros2_ws/install/example:/home/ubuntu/ros2_ws/install/controller:/home/ubuntu/ros2_ws/install/calibration:/home/ubuntu/ros2_ws/install/bringup:/home/ubuntu/ros2_ws/install/app:/opt/ros/humble', 'SHELL': '/bin/zsh', 'HOST': '/', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'P9K_SSH': '0', 'QT_IM_MODULE': 'fcitx', 'SAVEHIST': '10000', 'PWD': '/home/ubuntu/script test/build/capture_topic', 'JETSON_CUDA_ARCH_BIN': '8.7', 'CUDA_HOME': '/usr/local/cuda', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'CLUTTER_IM_MODULE': 'xim', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=a48ab7a49d761f36d37b7e520000002b', 'ASR_LANGUAGE': 'English', 'RCUTILS_COLORIZED_OUTPUT': '1', '_P9K_TTY': '/dev/pts/0', 'PYTHONPATH': '/home/ubuntu/script test/build/capture_topic/prefix_override:/home/ubuntu/script test/install/capture_topic/lib/python3.10/site-packages:/home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages:/home/ubuntu/script test/install/capture_topic/lib/python3.10/site-packages:/home/ubuntu/third_party_ros2/rtabmap_ws/build/rtabmap_python:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_python/lib/python3.10/site-packages:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/slam/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/servo_controller_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/servo_controller/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/sdk/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/ros_robot_controller_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/ros_robot_controller/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/peripherals/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/navigation/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/kinematics_msgs/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/kinematics/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/jetrover_description/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/interfaces/local/lib/python3.10/dist-packages:/home/ubuntu/ros2_ws/install/example/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/controller/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/calibration/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/bringup/lib/python3.10/site-packages:/home/ubuntu/ros2_ws/install/app/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'HISTFILE': '/home/ubuntu/.zsh/.zsh_history', 'COLCON': '1', 'JETSON_JETPACK': '6.0', 'VTE_VERSION': '6800', 'AUDIODRIVER': 'alsa', 'JETSON_P_NUMBER': 'p3767-0003', 'CMAKE_PREFIX_PATH': '/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_ros:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_launch:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_examples:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_demos:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_viz:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_slam:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_odom:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_util:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_sync:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_rviz_plugins:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_conversions:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap_msgs:/home/ubuntu/third_party_ros2/rtabmap_ws/install/rtabmap:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_description:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera:/home/ubuntu/third_party_ros2/orbbec_ws/install/orbbec_camera_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/ydlidar_ros2_driver:/home/ubuntu/third_party_ros2/third_party_ws/install/web_video_server:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_local_planner:/home/ubuntu/third_party_ros2/third_party_ws/install/teb_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/sllidar_ros2:/home/ubuntu/third_party_ros2/third_party_ws/install/rf2o_laser_odometry:/home/ubuntu/third_party_ros2/third_party_ws/install/ldlidar_stl_ros2:/home/ubuntu/third_party_ros2/third_party_ws/install/laser_filters:/home/ubuntu/third_party_ros2/third_party_ws/install/imu_calib:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter:/home/ubuntu/third_party_ros2/third_party_ws/install/costmap_converter_msgs:/home/ubuntu/third_party_ros2/third_party_ws/install/async_web_server_cpp:/home/ubuntu/third_party_ros2/third_party_ws/install/ascamera_listener:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_ros:/home/ubuntu/third_party_ros2/third_party_ws/install/apriltag_msgs:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline:/home/ubuntu/ros2_ws/install/xf_mic_asr_offline_msgs:/home/ubuntu/ros2_ws/install/servo_controller_msgs:/home/ubuntu/ros2_ws/install/ros_robot_controller_msgs:/home/ubuntu/ros2_ws/install/kinematics_msgs:/home/ubuntu/ros2_ws/install/interfaces'}, 'shell': False}
+[31.989042] (-) TimerEvent: {}
+[32.090182] (-) TimerEvent: {}
+[32.190890] (-) TimerEvent: {}
+[32.293540] (-) TimerEvent: {}
+[32.397203] (-) TimerEvent: {}
+[32.499231] (-) TimerEvent: {}
+[32.601232] (-) TimerEvent: {}
+[32.705046] (-) TimerEvent: {}
+[32.806647] (-) TimerEvent: {}
+[32.911893] (-) TimerEvent: {}
+[33.017880] (-) TimerEvent: {}
+[33.118505] (-) TimerEvent: {}
+[33.226104] (-) TimerEvent: {}
+[33.326768] (-) TimerEvent: {}
+[33.430959] (-) TimerEvent: {}
+[33.532294] (-) TimerEvent: {}
+[33.636072] (-) TimerEvent: {}
+[33.738007] (-) TimerEvent: {}
+[33.840683] (-) TimerEvent: {}
+[33.941821] (-) TimerEvent: {}
+[34.042627] (-) TimerEvent: {}
+[34.146393] (-) TimerEvent: {}
+[34.248100] (-) TimerEvent: {}
+[34.348738] (-) TimerEvent: {}
+[34.449964] (-) TimerEvent: {}
+[34.550611] (-) TimerEvent: {}
+[34.553364] (capture_topic) StdoutLine: {'line': b'running egg_info\n'}
+[34.650862] (-) TimerEvent: {}
+[34.757064] (-) TimerEvent: {}
+[34.765918] (capture_topic) StdoutLine: {'line': b'writing ../../build/capture_topic/capture_topic.egg-info/PKG-INFO\n'}
+[34.776118] (capture_topic) StdoutLine: {'line': b'writing dependency_links to ../../build/capture_topic/capture_topic.egg-info/dependency_links.txt\n'}
+[34.779808] (capture_topic) StdoutLine: {'line': b'writing entry points to ../../build/capture_topic/capture_topic.egg-info/entry_points.txt\n'}
+[34.783083] (capture_topic) StdoutLine: {'line': b'writing requirements to ../../build/capture_topic/capture_topic.egg-info/requires.txt\n'}
+[34.787547] (capture_topic) StdoutLine: {'line': b'writing top-level names to ../../build/capture_topic/capture_topic.egg-info/top_level.txt\n'}
+[34.857249] (-) TimerEvent: {}
+[34.958272] (-) TimerEvent: {}
+[35.061476] (-) TimerEvent: {}
+[35.154889] (machine_move) StdoutLine: {'line': b'running egg_info\n'}
+[35.161706] (-) TimerEvent: {}
+[35.262776] (-) TimerEvent: {}
+[35.365563] (-) TimerEvent: {}
+[35.467639] (-) TimerEvent: {}
+[35.525555] (machine_move) StdoutLine: {'line': b'writing ../../build/machine_move/machine_move.egg-info/PKG-INFO\n'}
+[35.529434] (machine_move) StdoutLine: {'line': b'writing dependency_links to ../../build/machine_move/machine_move.egg-info/dependency_links.txt\n'}
+[35.529945] (machine_move) StdoutLine: {'line': b'writing entry points to ../../build/machine_move/machine_move.egg-info/entry_points.txt\n'}
+[35.530111] (machine_move) StdoutLine: {'line': b'writing requirements to ../../build/machine_move/machine_move.egg-info/requires.txt\n'}
+[35.530251] (machine_move) StdoutLine: {'line': b'writing top-level names to ../../build/machine_move/machine_move.egg-info/top_level.txt\n'}
+[35.547726] (capture_topic) StdoutLine: {'line': b"reading manifest file '../../build/capture_topic/capture_topic.egg-info/SOURCES.txt'\n"}
+[35.551272] (capture_topic) StdoutLine: {'line': b"writing manifest file '../../build/capture_topic/capture_topic.egg-info/SOURCES.txt'\n"}
+[35.554398] (capture_topic) StdoutLine: {'line': b'running build\n'}
+[35.554789] (capture_topic) StdoutLine: {'line': b'running build_py\n'}
+[35.557408] (capture_topic) StdoutLine: {'line': b'copying capture_topic/__init__.py -> /home/ubuntu/script test/build/capture_topic/build/lib/capture_topic\n'}
+[35.564187] (capture_topic) StdoutLine: {'line': b'running install\n'}
+[35.567796] (-) TimerEvent: {}
+[35.590628] (capture_topic) StdoutLine: {'line': b'running install_lib\n'}
+[35.669968] (-) TimerEvent: {}
+[35.761682] (capture_topic) StdoutLine: {'line': b'running install_data\n'}
+[35.762865] (capture_topic) StdoutLine: {'line': b'copying resource/capture_topic -> /home/ubuntu/script test/install/capture_topic/share/ament_index/resource_index/packages\n'}
+[35.763966] (capture_topic) StdoutLine: {'line': b'copying package.xml -> /home/ubuntu/script test/install/capture_topic/share/capture_topic\n'}
+[35.768949] (capture_topic) StdoutLine: {'line': b'running install_egg_info\n'}
+[35.769704] (-) TimerEvent: {}
+[35.872398] (-) TimerEvent: {}
+[35.944858] (capture_topic) StdoutLine: {'line': b"removing '/home/ubuntu/script test/install/capture_topic/lib/python3.10/site-packages/capture_topic-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[35.959405] (machine_move) StdoutLine: {'line': b"reading manifest file '../../build/machine_move/machine_move.egg-info/SOURCES.txt'\n"}
+[35.960265] (machine_move) StdoutLine: {'line': b"writing manifest file '../../build/machine_move/machine_move.egg-info/SOURCES.txt'\n"}
+[35.960432] (machine_move) StdoutLine: {'line': b'running build\n'}
+[35.960581] (machine_move) StdoutLine: {'line': b'running build_py\n'}
+[35.960710] (capture_topic) StdoutLine: {'line': b'Copying ../../build/capture_topic/capture_topic.egg-info to /home/ubuntu/script test/install/capture_topic/lib/python3.10/site-packages/capture_topic-0.0.0-py3.10.egg-info\n'}
+[35.960869] (capture_topic) StdoutLine: {'line': b'running install_scripts\n'}
+[35.961224] (machine_move) StdoutLine: {'line': b'copying machine_move/move.py -> /home/ubuntu/script test/build/machine_move/build/lib/machine_move\n'}
+[35.961864] (machine_move) StdoutLine: {'line': b'copying machine_move/stop.py -> /home/ubuntu/script test/build/machine_move/build/lib/machine_move\n'}
+[35.963003] (machine_move) StdoutLine: {'line': b'copying machine_move/__init__.py -> /home/ubuntu/script test/build/machine_move/build/lib/machine_move\n'}
+[35.969370] (machine_move) StdoutLine: {'line': b'running install\n'}
+[35.972840] (-) TimerEvent: {}
+[36.025650] (machine_move) StdoutLine: {'line': b'running install_lib\n'}
+[36.075065] (-) TimerEvent: {}
+[36.175675] (-) TimerEvent: {}
+[36.277067] (-) TimerEvent: {}
+[36.311353] (machine_move) StdoutLine: {'line': b'running install_data\n'}
+[36.327067] (machine_move) StdoutLine: {'line': b'copying resource/machine_move -> /home/ubuntu/script test/install/machine_move/share/ament_index/resource_index/packages\n'}
+[36.327566] (machine_move) StdoutLine: {'line': b'copying package.xml -> /home/ubuntu/script test/install/machine_move/share/machine_move\n'}
+[36.327732] (machine_move) StdoutLine: {'line': b'running install_egg_info\n'}
+[36.377211] (-) TimerEvent: {}
+[36.478953] (-) TimerEvent: {}
+[36.579520] (-) TimerEvent: {}
+[36.680126] (-) TimerEvent: {}
+[36.781682] (-) TimerEvent: {}
+[36.874991] (machine_move) StdoutLine: {'line': b"removing '/home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages/machine_move-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[36.876070] (machine_move) StdoutLine: {'line': b'Copying ../../build/machine_move/machine_move.egg-info to /home/ubuntu/script test/install/machine_move/lib/python3.10/site-packages/machine_move-0.0.0-py3.10.egg-info\n'}
+[36.881054] (machine_move) StdoutLine: {'line': b'running install_scripts\n'}
+[36.881891] (-) TimerEvent: {}
+[36.984331] (-) TimerEvent: {}
+[37.086246] (-) TimerEvent: {}
+[37.187546] (-) TimerEvent: {}
+[37.288152] (-) TimerEvent: {}
+[37.390797] (-) TimerEvent: {}
+[37.491514] (-) TimerEvent: {}
+[37.498962] (capture_topic) StdoutLine: {'line': b'Installing capture_subscriber script to /home/ubuntu/script test/install/capture_topic/lib/capture_topic\n'}
+[37.499483] (capture_topic) StdoutLine: {'line': b"writing list of installed files to '/home/ubuntu/script test/build/capture_topic/install.log'\n"}
+[37.591657] (-) TimerEvent: {}
+[37.693174] (-) TimerEvent: {}
+[37.793785] (-) TimerEvent: {}
+[37.894417] (-) TimerEvent: {}
+[37.995316] (-) TimerEvent: {}
+[38.096454] (-) TimerEvent: {}
+[38.174269] (capture_topic) CommandEnded: {'returncode': 0}
+[38.198270] (-) TimerEvent: {}
+[38.300500] (-) TimerEvent: {}
+[38.331806] (capture_topic) JobEnded: {'identifier': 'capture_topic', 'rc': 0}
+[38.401238] (-) TimerEvent: {}
+[38.504568] (-) TimerEvent: {}
+[38.605634] (-) TimerEvent: {}
+[38.709631] (-) TimerEvent: {}
+[38.815464] (-) TimerEvent: {}
+[38.916089] (-) TimerEvent: {}
+[39.016855] (-) TimerEvent: {}
+[39.122608] (-) TimerEvent: {}
+[39.171074] (machine_move) StdoutLine: {'line': b'Installing move script to /home/ubuntu/script test/install/machine_move/lib/machine_move\n'}
+[39.179117] (machine_move) StdoutLine: {'line': b'Installing stop script to /home/ubuntu/script test/install/machine_move/lib/machine_move\n'}
+[39.181158] (machine_move) StdoutLine: {'line': b"writing list of installed files to '/home/ubuntu/script test/build/machine_move/install.log'\n"}
+[39.223256] (-) TimerEvent: {}
+[39.323897] (-) TimerEvent: {}
+[39.431400] (-) TimerEvent: {}
+[39.533851] (-) TimerEvent: {}
+[39.638060] (-) TimerEvent: {}
+[39.663678] (machine_move) CommandEnded: {'returncode': 0}
+[39.704868] (machine_move) JobEnded: {'identifier': 'machine_move', 'rc': 0}
+[39.707563] (-) EventReactorShutdown: {}
